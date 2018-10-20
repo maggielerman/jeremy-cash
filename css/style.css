@@ -30,12 +30,12 @@ body {
 				}
 					.Side-left-image {
 						background:url(http://jcash.netlify.com/imgs/jcash01.jpg) center no-repeat transparent;
-						height: 50%;
-						left: 50%;
+						height: 100%;
+						/*left: 50%;*/
 						position: absolute;
 						top: 0;
 						transform: skew(45deg);
-						width: 50%;
+						width: 100%;
 					}
 
 				.Side-right {
